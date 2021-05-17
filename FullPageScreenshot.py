@@ -1,10 +1,11 @@
 import time
 
 from selenium import webdriver
-
+***webdriver 
 from webdriver_manager.chrome import ChromeDriverManager
 
 from selenium.webdriver.chrome.options import Options
+***need to use POM
 
 
 chrome_options = Options()
